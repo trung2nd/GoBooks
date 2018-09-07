@@ -41,7 +41,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 
-<img src="https://raw.githubusercontent.com/bulim/go-for-javascript-developers/master/images/thumb.png" width="120px"/>
+<img src="https://i.imgur.com/TxYDcmM.png" width="120px"/>
 
 This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.
 
@@ -53,7 +53,7 @@ Go in Action introduces the Go language, guiding you from inquisitive developer 
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/8949cov_.jpg" width="120px"/>
+<img src="https://i.imgur.com/pHgks8v.png" width="120px"/>
 
 This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
@@ -91,7 +91,7 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 
 ### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821)
 
-<a href="https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821"><img src="https://images.manning.com/120/160/resize/book/0/85793cf-cbb9-4f32-8f4b-d4767755dc5c/Youngman_GetProg-go_hiresmeap.png" width="120px"/></a>
+<a href="https://i.imgur.com/15FUJst.jpg"><img src="https://images.manning.com/120/160/resize/book/0/85793cf-cbb9-4f32-8f4b-d4767755dc5c/Youngman_GetProg-go_hiresmeap.png" width="120px"/></a>
 
 *Get Programming with Go* introduces you to the powerful Go language without the confusing jargon or high-level theory. By working through over 25 quick-fire chapters, you'll quickly pick up the basics of the innovative Go programming language! Most of the examples in this book can be executed in the Go playground, so you don't need to worry about setting up a practice environment. Chock-full of engaging projects, you'll crack ancient ciphers, discover the wonders of cellular automatons, plan a vacation on Mars, and direct rovers to gather weather data!
 
@@ -160,7 +160,7 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 ### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
 
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
+<img src="https://i.imgur.com/0lD3PjD.png" width="120px"/>
 
 Build concurrent, easy-to-maintain responsive applications in Go.
 
@@ -212,7 +212,7 @@ Today, companies and developers need to respond to changing markets at breakneck
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go)
 
-<a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
+<a href="https://gum.co/web-development-with-go"><img src="https://i.imgur.com/PNDlF2X.png" width="120px"/></a>
 
 Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
 
